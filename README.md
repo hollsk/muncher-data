@@ -1,2 +1,3 @@
 # muncher-data
-Recipes and in-season information
+Recipes and listings of in-season ingredients.
+
