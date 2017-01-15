@@ -1,0 +1,78 @@
+{
+    "title": "Spiced maple-baked pears",
+    "description": "Perfect on a cold evening, these pears will fill the kitchen with an incredible scent too.",
+    "source": "Waitrose Kitchen",
+    "credit": "Jordan Bourke",
+    "published": "January 2015",
+    "season": [
+        "winter"
+    ],
+    "course":"Dessert",
+    "serves": 4,
+    "prep": "10 minutes",
+    "cook": "40 minutes",
+    "ingredients": [
+        {
+            "amount":"4",
+            "ingredient":"pears",
+            "details": "ripe, peeled"
+        },
+        {
+            "amount":"120ml",
+            "ingredient":"apple juice",
+            "details": "fresh"
+        },
+        {
+            "amount":"75ml",
+            "ingredient":"maple syrup"
+        },
+        {
+            "amount":"1",
+            "ingredient":"lemon",
+            "details": "pared zest"
+        },
+        {
+            "amount":"1",
+            "ingredient":"orange",
+            "details": "pared zest"
+        },
+        {
+            "amount":"1",
+            "ingredient":"vanilla pod",
+            "details": "split lengthways"
+        },
+        {
+            "amount":"2",
+            "ingredient":"cinnamon sticks"
+        },
+        {
+            "amount":"5",
+            "ingredient":"cardomom pods",
+            "details": "bruised"
+        },
+        {
+            "amount":"3",
+            "ingredient":"star anise"
+        },
+        {
+            "amount":"3",
+            "ingredient":"cloves"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 200˚C / 180˚C fan. Halve the pears lengthways, leaving the stalk intact on one side. There's no need to remove the core. Lay them cut-side up in a snug-fitting ovenproof dish. Pour the apple juice and maple syrup over the pears, then scatter the remaining ingredients on top.",
+        "Bake for 20 minutes, gently flip over the pears, then cook for another 15-20 minutes, until a sharp knife glides in easily and you have a syrupy sauce at the bottom of the dish.",
+        "Arrange the pears in a large dish to share or divide between bowls, and drizzle over any remaining syrup. Serve with spoonfuls of soya, coconut, or low-fat yoghurt."
+    ],
+    "tags": [
+        "fruit",
+        "simple",
+        "fragrant",
+        "sweet-things"
+    ],
+    "image": "recipes/spiced-maple-baked-pears.png",
+    "imageDesc": "A serving dish containing sliced and baked pears, with lemon and orange peel, a vanilla pod, and whole star anise scattered on top.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/spiced-maple-baked-pears"
+}

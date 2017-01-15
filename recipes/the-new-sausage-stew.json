@@ -1,0 +1,96 @@
+{
+    "title": "The new sausage stew",
+    "description": "This one-pan wonder can be left alone to cook itself. Well, almost.",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "course":"main",
+    "serves": 4,
+    "prep": "25 minutes",
+    "cook": "45 minutes, plus browning",
+    "ingredients": [
+        {
+            "amount":"1 tbsp",
+            "ingredient":"vegetable oil"
+        },
+        {
+            "amount":"8",
+            "ingredient":"sausages",
+            "details":"venison or vegetarian"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"pancetta",
+            "details": "cubed (optional)"
+        },
+        {
+            "amount":"12",
+            "ingredient":"shallots",
+            "details": "peeled"
+        },
+        {
+            "amount":"500g",
+            "ingredient":"carrots",
+            "details": "baby"
+        },
+        {
+            "amount":"2 cloves of",
+            "ingredient":"garlic",
+            "details": "peeled and sliced"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"juniper berries",
+            "details": "dried, crushed"
+        },
+        {
+            "amount":"350ml",
+            "ingredient":"red wine"
+        },
+        {
+            "amount":"3 sprigs of",
+            "ingredient":"rosemary",
+            "details": "stalks removed"
+        },
+        {
+            "amount":"20g",
+            "ingredient":"butter",
+            "instructions":"softened"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"flour",
+            "details": "plain"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"redcurrant jelly"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large flameproof casserole and fry the sausages on a medium heat until evenly browned on all sides. Remove and set aside.",
+        "Add the pancetta to the pan and fry until crisp. Remove and place with the sausages.",
+        "Brown the shallots, carrots, and garlic, then return the sausages and pancetta to the pan.",
+        "Add the crushed juniper berries, wine, and 3 sprigs of rosemary; season and bring to a simmer. Cover with a lid and simmer very gently for 30 mins.",
+        "Remove the lid and cook for a further 15 minutes to allow the sauce to reduce slightly.",
+        "Using a slotted spoon, remove the sausages and vegetables from the pan, mix the butter with the flour, and slowly whisk into the sauce until thickened and glossy.",
+        "Stir in the redcurrant jelly; return the sausages and vegetables to the pan and mix well. Serve with a creamy mash."
+    ],
+    "tags": [
+        "vegetarian",
+        "hearty",
+        "rich",
+        "sunday-lunch",
+        "sausages"
+    ],
+    "image": "recipes/the-new-sausage-stew.png",
+    "imageDesc": "A pot filled with warm sausage stew, and rosemary scattered on top.",
+    "imageWidth": 350,
+    "imageHeight": 263,
+    "url":"/recipes/the-new-sausage-stew"
+}

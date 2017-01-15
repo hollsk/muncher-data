@@ -1,0 +1,65 @@
+{
+    "title": "Rump steak with blue cheese butter",
+    "description": "Rump steak is hard to beat; it's affordable and full of flavour. Take the steaks out of the fridge 30 minutes before cooking.",
+    "source": "Waitrose Kitchen",
+    "credit": "Matt Tebbutt",
+    "published": "March 2014",
+    "season": [
+        "spring"
+    ],
+    "course":"main",
+    "serves": 2,
+    "prep": "10 minutes",
+    "cook": "10 minutes",
+    "ingredients": [
+        {
+            "amount":"25g",
+            "ingredient":"blue cheese",
+            "details": "such as Stilton or Roquefort"
+        },
+        {
+            "amount":"25g",
+            "ingredient":"butter",
+            "details": "unsalted, at room temperature"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"2",
+            "ingredient":"rump steaks",
+            "details": "about 150g - 200g each"
+        },
+        {
+            "amount":"1 clove of",
+            "ingredient":"garlic",
+            "details": "crushed"
+        },
+        {
+            "amount":"1",
+            "ingredient":"savoy cabbage",
+            "details": "finely shredded"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"thyme",
+            "details": "fresh picked leaves"
+        }
+    ],
+    "instructions": [
+        "In a small bowl, mash together the blue cheese and butter until completely combined; the finished result should be a soft blue colour and deliciously salty. Use cling film to roll the butter into a sausage, then chill until needed.",
+        "Heat 1/2 tbsp oil in a frying pan over a high heat. Season the steaks and cook for 2 minutes on each side for medium-rare. Cover loosely with foil and set aside to rest.",
+        "Add the remaining 1/2 tbsp oil to the pan and, when hot, add the garlic and cabbage; cook, tossing regularly, for 4-5 minutes. Stir in the thyme leaves. Serve each steak topped with 1/2 the blue cheese butter, and the cabbage on the side."
+    ],
+    "tags": [
+        "simple",
+        "fancy",
+        "hearty"
+    ],
+    "image": "recipes/rump-steak-with-blue-cheese-butter.png",
+    "imageDesc": "A wooden chopping board with a gloriously pink steak served on it, blue cheese butter melted over the top, and a bowl filled with crisp savoy cabbage to the side",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/rump-steak-with-blue-cheese-butter"
+}

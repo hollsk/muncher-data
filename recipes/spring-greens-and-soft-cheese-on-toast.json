@@ -1,0 +1,75 @@
+{
+    "title": "Spring greens and soft cheese on toast",
+    "source": "Waitrose Kitchen",
+    "credit": "Lucas Hollweg",
+    "published": "March 2014",
+    "season": [
+        "spring"
+    ],
+    "course":[
+        "starter",
+        "lunch"
+    ],
+    "serves": 4,
+    "prep": "15 minutes",
+    "cook": "5 minutes",
+    "ingredients": [
+        {
+            "amount":"2 tbsp",
+            "ingredient":"red wine vinegar"
+        },
+        {
+            "amount":"6 tbsp",
+            "ingredient":"shallots",
+            "details": "finely chopped, about 4 medium"
+        },
+        {
+            "amount":"2 cloves of",
+            "ingredient":"garlic",
+            "details": "1 crushed, 1 halved"
+        },
+        {
+            "amount":"4 tbsp",
+            "ingredient":"olive oil",
+            "details": "extra virgin, plus extra for drizzling"
+        },
+        {
+            "amount":"1/4 tsp",
+            "ingredient":"salt"
+        },
+        {
+            "amount":"500g",
+            "ingredient":"spring greens",
+            "details": "big stalks discarded and leaves shredded (about 300g shredded weight)"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"cumin",
+            "details": "ground"
+        },
+        {
+            "amount":"4 slices of",
+            "ingredient":"sourdough",
+            "details": "toasted"
+        },
+        {
+            "amount":"125g",
+            "ingredient":"soft cheese"
+        }
+    ],
+    "instructions": [
+        "In a large frying pan, bring the vinegar, shallots, crushed garlic, 4 tbsp oil, salt, and some black pepper to a simmer. Add the greens and cumin, then fry for 2-3 minutes until wilted.",
+        "Rub each slice of toast with the cut half of the remaining garlic clove. Drizzle with a little more olive oil and pile the greens on top. Add a blob of soft cheese to each, splash over a little more olive oil, and serve with a tiny pinch of chilli flakes on top."
+    ],
+    "tags": [
+        "light",
+        "simple",
+        "vegetarian",
+        "fancy"
+    ],
+    "image": "recipes/spring-greens-and-soft-cheese-on-toast.png",
+    "imageDesc": "A wooden chopping board with a slice of toasted sourdough, piled high with wilted greens and soft cheese.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/spring-greens-and-soft-cheese-on-toast"
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Red onion gravy",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "season": [
+        "autumn",
+        "winter"
+    ],
+    "course":"dinner",
+    "accompaniment":[
+        {
+            "title": "Toad in the hole with red onion gravy",
+            "url": "/recipes/toad-in-the-hole-with-red-onion-gravy"
+        }
+    ],
+    "serves": "4-6",
+    "prep": "10 minutes",
+    "cook": "40 minutes",
+    "ingredients": [
+        {
+            "amount":"50g",
+            "ingredient":"butter"
+        },
+        {
+            "amount":"3",
+            "ingredient":"red onions",
+            "details": "sliced"
+        },
+        {
+            "amount":"3 cloves",
+            "ingredient":"garlic",
+            "details": "finely chopped"
+        },
+        {
+            "amount":"2",
+            "ingredient":"shallots",
+            "details":"finely sliced"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"plain flour"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"caster sugar"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"red wine vinegar"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"English mustard"
+        },
+        {
+            "amount":"4 sprigs",
+            "ingredient":"rosemary",
+            "details": "leaves finely chopped"
+        },
+        {
+            "amount":"500ml",
+            "ingredient":"chicken stock"
+        }
+    ],
+    "instructions": [
+        "Heat the butter in a large pan until foaming, then add the onions, garlic, and shallots. Cook gently for 15-20 minutes until really soft and starting to caramelise. ",
+        "Turn up the heat and add the flour. Cook for 2-3 minutes, then stir in the sugar, vinegar and mustard. ",
+        "Add the rosemary and stock; simmer briskly for 15 minutes until thickened. Season and keep warm."
+    ],
+    "tags": [
+        "hearty",
+        "rich",
+        "roasts",
+        "sunday-lunch",
+        "vegetarian"
+    ],
+    "image": "recipes/toad-in-the-hole-with-red-onion-gravy.png",
+    "imageDesc": "A roasting tray filled with well-cooked batter and crispy-skinned sausages, scattered with rosemary. ",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/red-onion-gravy"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Maple bacon scones",
+    "description": "A warm batch of these, buttered and topped with cheddar and chopped chives, is heaven on a plate.",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "credit": "Tarek Malouf of Hummingbird Bakery",
+    "tip": "When rubbing together the butter and flour, keep the butter really cold. Avoid overworking the dough - too much manhandling can make it tough. Scones need a good raising agent, so make sure yours is in date as this can affect its strength. And when cutting out your scones, don't twist the cutter or they'll become lopsided as they bake.",
+    "season": [
+        "spring"
+    ],
+    "serves": "6",
+    "prep": "10 minutes",
+    "cook": "30 minutes",
+    "ingredients": [
+        {
+            "amount":"200g",
+            "ingredient":"bacon lardons",
+            "details": "smoked and dry cured"
+        },
+        {
+            "amount":"225g",
+            "ingredient":"self-raising flour"
+        },
+        {
+            "amount":"1/2 tsp",
+            "ingredient":"salt"
+        },
+        {
+            "amount":"1/2 tsp",
+            "ingredient":"English mustard powder"
+        },
+        {
+            "amount":"55g",
+            "ingredient":"butter",
+            "details":"cubed and chilled"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"chives",
+            "details":"chopped"
+        },
+        {
+            "amount":"120ml",
+            "ingredient":"whole milk"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"maple syrup",
+            "details":"plus extra for brushing"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 200˚C, gas mark 6. Fry the lardons in a dry frying pan over a medium heat for 8-10 minutes, until crisp and golden. Lift out with a slotted spoon and drain on kitchen paper.",
+        "Put the flour, salt and mustard powder in a large bowl with a grind of black pepper. Add the butter and, using your fingers, work in until combined. Roughly chop the lardons, then toss through the mixture along with the chives. Make a well in the centre.",
+        "Mix the milk and maple syrup together. Pour into the mixture and, using a knife, roughly bring together. Knead briefly and very lightly to combine, then pat out on a floured surface to about 2.5cm thick. Cut out 6cm rounds using a cookie cutter - reroll any extra dough until you have 6 scones. Place on a lightly floured baking tray. Lightly brush the tops with maple syrup and bake for 18-20 minutes until golden on top.",
+        "Cool a little, then split and serve with cheddar and chives."
+    ],
+    "tags": [
+        "simple",
+        "afternoon-tea",
+        "scones",
+        "bakes"
+    ],
+    "image": "recipes/maple-bacon-scones.png",
+    "imageDesc": "A two-tier cake stand with split scones arranged on both tiers. The scones are topped with slices of cheese or butter, and sprinkled with chopped chives.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/maple-bacon-scones"
+}

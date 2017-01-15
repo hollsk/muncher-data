@@ -1,0 +1,60 @@
+{
+    "title": "Baked sharon fruit",
+    "source": "Waitrose Kitchen",
+    "credit": "Lucas Hollweg",
+    "published": "January 2015",
+    "season": [
+        "winter"
+    ],
+    "course":"dessert",
+    "serves": 4,
+    "prep": "5 minutes",
+    "cook": "60 minutes",
+    "ingredients": [
+        {
+            "amount":"4",
+            "ingredient":"sharon fruit",
+            "details": "halved horizontally"
+        },
+        {
+            "amount":"1/2",
+            "ingredient":"orange",
+            "details": "zest and juice"
+        },
+        {
+            "amount":"5 tbsp",
+            "ingredient":"honey",
+            "details": "clear"
+        },
+        {
+            "amount":"1/2 tsp",
+            "ingredient":"cinnamon",
+            "details": "ground"
+        },
+        {
+            "amount":"1/4 tsp",
+            "ingredient":"ginger",
+            "details": "ground"
+        },
+        {
+            "amount":"1",
+            "ingredient":"vanilla pod",
+            "details": "split lengthways"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 180˚C / 160˚C fan. Put the sharon fruit, cut-side up in a roasting tin so they fit snugly. Squeeze the orange juice over the top, then drizzle with the honey and scatter over the zest, spices, and vanilla. Cover tightly with foil and roast for 35-40 minutes. The timing will depend on the size and ripeness of the fruit, but when cooked, the fruit should be soft yet still holding its shape.",
+        "Set the grill to high. Remove the foil from the fruit, spoon over the cooking juices, and grill for about 5-10 minutes until golden. Serve with a spoonful of Greek yoghurt."
+    ],
+    "tags": [
+        "fragrant",
+        "simple",
+        "fruit",
+        "sweet-things"
+    ],
+    "image": "recipes/baked-sharon-fruit.png",
+    "imageDesc": "A roasting tin on a marble block, filled with roasted sharon fruit halves, with a split vanilla pod on top. Some Greek yoghurt and almonds lie to one side.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/baked-sharon-fruit"
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Pickled carrots and onions",
+    "source": "Waitrose Kitchen",
+    "credit": "Tom Harris",
+    "published": "March 2014",
+    "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "course":"side",
+    "serves": 6,
+    "prep": "30 minutes",
+    "ingredients": [
+        {
+            "amount":"2 tbsp",
+            "ingredient":"yellow mustard seeds"
+        },
+        {
+            "amount":"200ml",
+            "ingredient":"cider vinegar"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"golden caster sugar"
+        },
+        {
+            "amount":"20g",
+            "ingredient":"sea salt"
+        },
+        {
+            "amount":"6",
+            "ingredient":"carrots"
+        },
+        {
+            "amount":"6",
+            "ingredient":"onions",
+            "details": "small or baby, quartered and separated into petals"
+        },
+        {
+            "amount":"2 sprigs of",
+            "ingredient":"dill"
+        }
+    ],
+    "instructions": [
+        "Boil the mustard seeds in a pan of water for about 1 hour until softened; drain. Meanwhile, in a small pan, warm the vinegar, sugar and salt with 200ml water until the sugar's dissolved; set aside to cool.",
+        "Remove the tops from the carrots and slice into long ribbons with a vegetable peeler, then put in a small, deep tray with the onions, dill, and mustard seeds.",
+        "Pour the cooled pickling liquor over the top to cover. Cover with clingfilm and chill for at least 4 hours, preferably overnight."
+    ],
+    "tags": [
+        "simple",
+        "pickles",
+        "sides",
+        "light"
+    ],
+    "image": "recipes/pickled-carrots-and-onions.png",
+    "imageDesc": "A plate of salad with fish and pickled vegetables.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/pickled-carrots-and-onions"
+}

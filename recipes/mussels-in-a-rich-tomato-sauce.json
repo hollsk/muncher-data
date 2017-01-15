@@ -1,0 +1,63 @@
+{
+    "title": "Mussels in a rich tomato sauce",
+    "description": "Let them think you made an effort...",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "course":"main",
+    "serves": 4,
+    "prep": "30 minutes",
+    "cook": "30 minutes",
+    "ingredients": [
+        {
+            "amount":"2kg",
+            "ingredient":"mussels",
+            "details": "fresh"
+        },
+        {
+            "amount":"4-6 tbsp",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"2",
+            "ingredient":"red onions",
+            "details": "peeled, halved, and sliced"
+        },
+        {
+            "amount":"1",
+            "ingredient":"garlic clove",
+            "details": "peeled and finely chopped"
+        },
+        {
+            "amount":"1",
+            "ingredient":"chilli",
+            "details": "deseeded and finely chopped"
+        },
+        {
+            "amount":"15",
+            "ingredient":"vine-ripened tomatoes",
+            "details": "5 in each pack"
+        }
+    ],
+    "instructions": [
+    	"Scrub the mussels clean under cold running water, pulling away their beards and scraping off any barnacles, and place the clean mussels in a bowl. If any are open, tap them briskly on the side of the sink. If they don't shut, or any mussels are damaged, discard them.",
+    	"Heat the olive oil in a large, wide saucepan. Gently fry the onions, garlic, and chilli for about 10 minutes or until they are soft and golden.",
+    	"Meanwhile place the tomatoes in a bowl, cover with boiling water, and leave to soak for a minute or two.",
+    	"Drain, peel, and roughly chop the tomatoes, removing the seeds. Try and keep as much of the juice as you can.",
+    	"Once the onions are soft, stir in the tomato flesh and any reserved juice. Increase the heat slightly and cook the tomato, stirring regularly, until the mixture has reduced to a thick but textured sauce. Keep warm.",
+    	"Pour 150ml cold water into a large saucepan. Bring the water to the boil, and add a single layer of the mussels.",
+    	"Cover and bring back to the boil. As soon as the mussels open - about 2 minutes - remove them with a slotted spoon so that the liquid is left in the saucepan. Repeat until all the mussels are cooked.",
+        "Add a couple of large spoonfuls of mussel water to the tomato sauce and season with black pepper.",
+        "Heat the sauce so it's piping hot. Add the mussels, then re-heat and serve immediately."
+    ],
+    "tags": [
+        "fish",
+        "rich",
+        "simple",
+        "fancy"
+    ], 
+    "image": "recipes/mussels-in-a-rich-tomato-sauce.png",
+    "imageDesc": "A dinner bowl filled with open mussels, cooked in tomato sauce",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/mussels-in-a-rich-tomato-sauce"
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Rhubarb and Amaretto trifle",
+    "description": "Sabayon (or zabaglione in Italian) - a mix of egg yolks, sugar and sweet wine - is the most delicious custard.",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "credit": "Yotam Ottolenghi",
+    "season": [
+        "spring"
+    ],
+    "special": [
+        "Christmas",
+        "Easter"
+    ], 
+    "course":"dessert",
+    "serves": 10,
+    "prep": "25 minutes",
+    "cook": "60 minutes",
+    "ingredients": [
+        {
+            "amount":"90g",
+            "ingredient":"almonds",
+            "details": "whole, with skins"
+        },
+        {
+            "amount":"800g",
+            "ingredient":"rhubarb",
+            "details": "trimmed and cut into 4cm pieces"
+        },
+        {
+            "amount":"70g",
+            "ingredient":"caster sugar"
+        },
+        {
+            "amount":"140ml",
+            "ingredient":"Amaretto liqueur"
+        },
+        {
+            "amount":"420g",
+            "ingredient":"madeira sponge"
+        },
+        {
+            "amount":"8",
+            "ingredient":"egg yolks"
+        },
+        {
+            "amount":"160g",
+            "ingredient":"caster sugar"
+        },
+        {
+            "amount":"120ml",
+            "ingredient":"marsala wine"
+        },
+        {
+            "amount":"350g",
+            "ingredient":"mascarpone"
+        },
+        {
+            "amount":"250ml",
+            "ingredient":"double cream"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"caster sugar"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 170˚C. Roast the nuts for 10 minutes, cool, then roughly chop. Mix the rhubarb with 70g caster sugar and 60ml water, then transfer to a baking tray. Cover tightly with foil and roast for 30-35 minutes until tender. Set aside to cool, then strain. Reserve the liquid in a bowl and mix with the Amaretto. Keep the cooked rhubarb separate.",
+        "For the sabayon, put the yolks and 160g caster sugar in a large heatproof bowl over a pan of simmering water; the base of the bowl should not touch the water. Using electric beaters, whisk continuously as you pour in the marsala, until the eggs cook; about 10 minutes. Next, whisk over iced water untilcold. Then add the mascarpone and whisk vigourously until smooth. In a separate bowl, whisk the cream and 1tbsp caster sugar to soft peaks.",
+        "Cut the sponge into squares roughly 8cm x 8cm, and dip them in the Amaretto and rhubarb cooking juices. Put 1/2 of them in the base of a large glass bowl (about 3 litres). Spoon 1/2 of the rhubarb on top, followed by 1/2 of the sabayon and then 1/2 of the nuts. Follow this with another layer of sponge, then the remaining sabayon and fruit. Top with the whipped cream and sprinkle with the remaining nuts. Chill well before serving."
+    ],
+    "tags": [
+        "fancy",
+        "untested",
+        "sweet-things",
+        "fruit"
+    ],
+    "image": "recipes/rhubarb-and-amaretto-trifle.png",
+    "imageDesc": "An old-fashioned glass trifle dish with a gigantic 7-layer trifle in it, perched atop somebody's grandmother's tablecloth.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/rhubarb-and-amaretto-trifle"
+}

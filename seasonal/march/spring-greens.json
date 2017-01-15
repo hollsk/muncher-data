@@ -1,0 +1,24 @@
+{
+    "title": "Spring greens",
+    "subheading": "They may not be the most showstopping vegetable, but don't let that put you off spring greens.",
+    "description": [
+        "While their loose, bullet-shaped collection of leaves can lack the hearty crunch of round winter cabbages, their sweet flavour and supple texture make them far more versatile. Spring greens wilt and soften quickly in the heat, which makes them as suitable for the wok as for steaming and boiling. They can be shredded like cabbage and sautéed (Indian and Chinese spices work well here), or boiled whole until floppy and served with little more than a knob of butter and a good grinding of black pepper.",
+        "Like all brassicas, they are a great healthy choice - spring greens contain vitamins C and K, which are important for healthy bones. They also happen to be relatively inexpensive. Heartless they may be, but few vegetables give of themselves more freely."
+    ],
+    "credit": "Lucas Hollweg",
+    "month": "march",
+    "year": "2014",
+    "season": "spring",
+    "accompaniment":[
+        {
+            "title": "Spring greens and soft cheese on toast",
+            "url":"/recipes/spring-greens-and-soft-cheese-on-toast",
+            "image": "recipes/spring-greens-and-soft-cheese-on-toast.png"
+        }
+    ],    
+    "image": "ingredients/spring-greens.png",
+    "imageDesc": "Freshly washed spring greens, still in the colander, some leaves thinly shredded.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/seasonal/march/2014/spring-greens"
+}

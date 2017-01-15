@@ -1,0 +1,60 @@
+{
+    "title": "Mango yoghurt with cardamom and pistachio",
+    "source": "Waitrose Kitchen",
+    "credit": "Lucas Hollweg",
+    "published": "March 2014",
+    "season": [
+        "spring",
+        "summer"
+    ],
+    "course":"dessert",
+    "serves": 6,
+    "prep": "10 minutes",
+    "ingredients": [
+        {
+            "amount":"2",
+            "ingredient":"mangoes",
+            "details": "medium, peeled and flesh cut into 1cm cubes"
+        },
+        {
+            "amount":"3-4 tbsp",
+            "ingredient":"caster sugar"
+        },
+        {
+            "amount":"8",
+            "ingredient":"cardamom pods",
+            "details": "broken open and seeds lightly crushed"
+        },
+        {
+            "amount":"good grating of",
+            "ingredient":"nutmeg",
+            "details": "fresh"
+        },
+        {
+            "amount":"350g",
+            "ingredient":"greek yoghurt"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"pistachios",
+            "details": "chopped"
+        }
+    ],
+    "instructions": [
+        "Reserve a couple of handfuls of the mango cubes. Put the remaining mango in a food processor with the caster sugar, crushed cardamom seeds and nutmeg; blitz to a smooth pureé.",
+        "Add the greek yoghurt and blitz together until well mixed. Divide between 6 glasses, then top each one with a few cubes of mango and a sprinkling of chopped pistachios."
+    ],
+    "tags": [
+        "simple",
+        "fresh",
+        "sweet-things",
+        "fragrant",
+        "vegetarian",
+        "drinks"
+    ],
+    "image": "recipes/mango-yoghurt-with-cardamom-and-pistachio.png",
+    "imageDesc": "Two glasses of cold mango lassi, decorated with chunks of fruit and nuts.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/mango-yoghurt-with-cardamom-and-pistachio"
+}

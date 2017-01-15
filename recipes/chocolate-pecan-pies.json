@@ -1,0 +1,106 @@
+{
+    "title": "Chocolate pecan pies",
+    "description": "These taste like a cross between a pecan pie and a brownie - nutty, gooey and a bit biscuity - just add a dollop of whipped cream. This quantity works perfectly for eight 8cm boat-shaped tart cases, but any small tart cases will do.",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "credit": "Tarek Malouf of Hummingbird Bakery",
+    "season": [
+        "spring"
+    ],
+    "course":"dessert",
+    "serves": "8-10",
+    "prep": "20 minutes, plus chilling",
+    "cook": "40 minutes",
+    "ingredients": [
+        {
+            "amount":"50g",
+            "ingredient":"pecans",
+            "details":"halved"
+        },
+        {
+            "amount":"125g",
+            "ingredient":"plain flour"
+        },
+        {
+            "amount":"75g",
+            "ingredient":"butter",
+            "details":"chilled"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"cocoa powder"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"icing sugar",
+            "details": "plus extra for dusting"
+        },
+        {
+            "amount":"1",
+            "ingredient":"orange",
+            "details":"zest"
+        },
+        {
+            "amount":"1",
+            "ingredient":"egg"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"pecans",
+            "details": "or pecan halves"
+        },
+        {
+            "amount":"80g",
+            "ingredient":"golden syrup"
+        },
+        {
+            "amount":"2",
+            "ingredient":"eggs",
+            "details": "beaten"
+        },
+        {
+            "amount":"120g",
+            "ingredient":"muscovado sugar"
+        },
+        {
+            "amount":"50g",
+            "ingredient":"butter",
+            "details": "melted"
+        },
+        {
+            "amount":"25g",
+            "ingredient":"dark chocolate",
+            "details": "chopped"
+        },
+        {
+            "amount":"1/4 tsp",
+            "ingredient":"sea salt"
+        },
+        {
+            "amount":"1tbsp",
+            "ingredient":"whiskey",
+            "details": "optional"
+        }
+    ],
+    "instructions": [
+        "Start by making the pastry; whizz the 50g pecans in a food processor to a fine powder. Blitz in the flour, chilled butter, cocoa powder, icing sugar and orange zest until evenly incorporated. With the motor running, add the egg and 1 tbsp cold water until the dough comes together. Tip out onto a work surface and mould into a rough sausage shape, then wrap in cling film. Rest in the fridge for at least 30 minutes.",
+        "Preheat the oven to 180˚, gas mark 4. For the filling, toast the 250g pecans in the oven for 10 minutes, tossing halfway through. Cool briefly, then set aside 50g for decoration and roughly chop the remaining 200g.",
+        "Slice the pastry into 8-10 even discs and roll out each to about 0.3cm thick and large enough to line your tins. Press into the tart tins, making sure that the pastry is a few mm higher than the sides of the tins. Prick the bases with a fork, then bake for 10-12 minutes until the pastry is just cooked through.",
+        "In a bowl, beat the 200g toasted, chopped pecans with the remaining ingredients. Spoon into the the cooked pastry shells, then top with the set-aside pecans.",
+        "Bake for another 18-20 minutes until just set and the tops have formed a crust. Leave to settle for a minute, then carefully remove from the tart tins and cool completely on a wire rack. Dust with icing sugar, and serve with softly whipped cream."
+    ],
+    "tags": [
+        "fancy",
+        "afternoon-tea",
+        "sweet-things",
+        "nuts",
+        "chocolate",
+        "bakes"
+    ],
+    "calories":"530",
+    "image": "recipes/chocolate-pecan-pies.png",
+    "imageDesc": "Boat-shaped pecan pies arranged in a star shape on a cake stand, topped with toasted nuts and dusted with icing sugar. ",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/chocolate-pecan-pies"
+}

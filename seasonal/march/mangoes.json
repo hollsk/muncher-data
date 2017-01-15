@@ -1,0 +1,25 @@
+{
+    "title": "Mangoes",
+    "subheading": "In her 1932 book, Good Things in England, the food writer Florence White suggests the proper place to eat a mango is in the bath.",
+    "description": [
+        "I think she's probably right; it is near impossible to tackle a whole ripe mango without at least a trickle of juice running down your chin. Being in the bath makes the ensuing clean up process much easier.",
+        "Mangoes are one of those exotic imports from warmer parts of the world that bring sunshine to our diets at this time of year. Most, I suspect, are eaten simply sliced or cubed, or added to fruit salads and pavlovas - and there's nothing wrong with that. To our Western palates, their perfume suggests sweet alliances. Look further afield though, and you'll find myriad savoury uses.",
+        "The flesh works well with many of the same flavours as avocado - particularly southeast Asian-inspired seafood or chicken salads - as well as with avocado itself (try the two together in a salsa for grilled meat) and you can even cook with it. Southern India, for instance, has curries made with mango, coconut, yoghurt, chilli, and curry leaves, which are a delicious mix of sweetness and spice. You don't even have to sit in the bath to eat them."
+    ],
+    "credit": "Lucas Hollweg",
+    "month": "march",
+    "year": "2014",
+    "season": "spring",
+    "accompaniment":[
+        {
+            "title": "Mango yoghurt with cardamom and pistachio",
+            "url":"/recipes/mango-yoghurt-with-cardamom-and-pistachio",
+            "image": "recipes/mango-yoghurt-with-cardamom-and-pistachio.png"
+        }
+    ],    
+    "image": "ingredients/mangoes.png",
+    "imageDesc": "Several mangoes, freshly sliced into hedgehogs.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/seasonal/march/2014/mangoes"
+}

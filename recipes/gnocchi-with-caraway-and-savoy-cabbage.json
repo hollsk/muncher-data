@@ -1,0 +1,74 @@
+{
+    "title": "Gnocchi with caraway and savoy cabbage",
+    "source": "Waitrose Kitchen",
+    "credit": "Lucas Hollweg",
+    "published": "2015-01-01",
+    "season": [
+        "winter",
+        "autumn"
+    ],
+    "course":"main",
+    "serves": 4,
+    "prep": "10 minutes",
+    "cook": "30 minutes",
+    "ingredients": [
+        {
+            "amount":"200g",
+            "ingredient":"smoked bacon lardons"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"1",
+            "ingredient":"onion",
+            "details": "finely sliced"
+        },
+        {
+            "amount":"2 cloves",
+            "ingredient":"garlic",
+            "details": "finely chopped"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"caraway seeds"
+        },
+        {
+            "amount":"1",
+            "ingredient":"savoy cabbage",
+            "details": "large, outer leaves and core discarded, shredded"
+        },
+        {
+            "amount":"250ml",
+            "ingredient":"white wine",
+            "details": "dry"
+        },
+        {
+            "amount":"75g",
+            "ingredient":"parmigiano reggiano"
+        },
+        {
+            "amount":"250ml",
+            "ingredient":"crème fraîche"
+        },
+        {
+            "amount":"500g",
+            "ingredient":"gnocchi"
+        }
+    ],
+    "instructions": [
+    	"Fry the bacon in the oil for 3-5 minutes until crisp. Add the onion, garlic, and caraway; cook gently for 5 minutes. Add the cabbage and a pinch of salt; fry for 2-3 minutes.",
+    	"Pour in the wine and bubble until just a little liquid remains. Grate the parmigiano reggiano and stir in 50g, along with the crème fraîche; set aside.",
+    	"Heat the grill to high. Boil the gnocchi for 3 minutes. Fold into the sauce, with 3 tbsp of cooking liquid. Pile into a baking dish, scatter with the remaining cheese, and grill until golden."
+    ],
+    "tags": [
+        "rich",
+        "hearty"
+    ], 
+    "image": "recipes/gnocchi-with-caraway-and-savoy-cabbage.png",
+    "imageDesc": "An oval serving dish piled high with creamy gnocchi, bacon, and cabbage.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/gnocchi-with-caraway-and-savoy-cabbage"
+}

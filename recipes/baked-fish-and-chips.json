@@ -1,0 +1,82 @@
+{
+    "title": "Baked fish and chips",
+    "description": "A guilt-free alternative to deep-fried takeaway",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "summer",
+        "spring"
+    ],
+    "course":"main",
+    "accompaniment":[
+        {
+            "title": "Home-made tartare sauce",
+            "url": "home-made-tartare-sauce"
+        }
+    ],
+    "serves": 4,
+    "prep": " 30 minutes",
+    "cook": " 30 minutes",
+    "ingredients": [
+        {
+            "ingredient":"Home-made tartare sauce",
+            "url": "/recipes/home-made-tartare-sauce"
+        },
+        {
+            "amount":"4",
+            "ingredient":"potatoes",
+            "details": "large, cut into chips"
+        },
+        {
+            "ingredient":"sunflower oil",
+            "details": "to drizzle"
+        },
+        {
+            "amount":"4 x 175g",
+            "ingredient":"white fish",
+            "details": "e.g. cod or halibut, skin on"
+        },
+        {
+            "amount":"small bunch of",
+            "ingredient":"parsley",
+            "details":"roughly chopped"
+        },
+        {
+            "amount":"small bunch of",
+            "ingredient":"dill",
+            "details":"roughly chopped"
+        },
+        {
+            "amount":"small bunch of",
+            "ingredient":"chives",
+            "details":"roughly chopped"
+        },
+        {
+            "amount":"small bunch of",
+            "ingredient":"chervil",
+            "details":"roughly chopped"
+        },
+        {
+            "amount":"150ml",
+            "ingredient":"white wine",
+            "details": "dry"
+        }
+    ],
+    "instructions": [
+    	"Pre-heat oven to 180˚C fan / 160˚C gas mark 4.",
+    	"Soak potatoes in cold water to remove some of the starch.",
+    	"Remove all small bones from the fish. Pat the fish dry with kitchen paper and season with salt and pepper.",
+    	"Place the fish on a large sheet of foil inside a baking tray and cover with the herbs. Fold the foil to make a parcel and pour in the wine. Secure the foil and place in the oven for 15 minutes or until the fish is cooked. Then keep it warm.",
+    	"Drain the potatoes and dry on kitchen paper. Place them in a single layer on a grill pan under a hot grill. Drizzle with the oil and grill on all sides until golden and cooked.",
+    	"Serve the fish and chips with the tartare sauce."
+    ],
+    "tags": [
+        "fish",
+        "simple"
+    ], 
+    "image": "recipes/baked-fish-and-chips.png",
+    "imageDesc": "A portion of baked fish and chips on a wooden board, with chunky tartare sauce in a small bowl to the side.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/baked-fish-and-chips"
+}

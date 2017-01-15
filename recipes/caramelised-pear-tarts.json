@@ -1,0 +1,78 @@
+{
+    "title": "Caramelised pear tarts",
+    "description": "A pot of tea, a warm pear tart, a roaring fire, an old movie - make it your Sunday ritual",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "course":"dessert",
+    "serves": 4,
+    "prep": "20 minutes",
+    "cook": "25 minutes",
+    "ingredients": [
+        {
+            "amount":"1",
+            "ingredient":"lemon",
+            "details": "zest"
+        },
+        {
+            "amount":"500ml",
+            "ingredient":"water"
+        },
+        {
+            "amount":"50g",
+            "ingredient":"caster sugar"
+        },
+        {
+            "amount":"2",
+            "ingredient":"pears",
+            "details": "peeled, halved and cored"
+        },
+        {
+            "amount":"30g",
+            "ingredient":"butter",
+            "details": "unsalted"
+        },
+        {
+            "amount":"30g",
+            "ingredient":"soft brown sugar"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"puff pastry"
+        },
+        {
+            "amount":"50g",
+            "ingredient":"caster sugar"
+        },
+        {
+            "amount":"50ml",
+            "ingredient":"water"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 200˚C / 180˚C fan.",
+        "Put the zest, water, and sugar in a pan; bring slowly to simmering point, dissolving the sugar. Add the pears.",
+        "Poach for 8 minutes until tender but firm. Remove the pears; allow to cool slightly, then slice each pear into a fan.",
+        "Put the butter in a hot pan. Once foaming, add the pears and brown sugar. Cook until caramelised.",
+        "Roll out the pastry and cut into 4-inch diameter circles. Place a pear fan on each. Bake for 15 minutes until puffed.",
+        "Heat the remaining caster sugar in a pan with the rest of the water until golden. Pour over the tarts. Allow to cool slightly and serve."
+    ],
+    "tags": [
+        "bakes",
+        "fruit",
+        "puff-pastry",
+        "simple",
+        "sweet-things",
+        "afternoon-tea"
+    ],
+    "image": "recipes/caramelised-pear-tarts.png",
+    "imageDesc": "A wooden tray with three pear tarts on top, drizzled with liquid caramel",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/caramelised-pear-tarts"
+}

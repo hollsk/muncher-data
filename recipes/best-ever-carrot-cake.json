@@ -1,0 +1,85 @@
+{
+    "title": "Best ever carrot cake",
+    "description": "The holy grail of snacks - a healthy cake!",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "course":"dessert",
+    "serves": "6-8",
+    "prep": "35 minutes",
+    "cook": "1 hour 40 minutes",
+    "ingredients": [
+        {
+            "amount":"3",
+            "ingredient":"eggs",
+            "details": "medium"
+        },
+        {
+            "amount":"300g",
+            "ingredient":"light brown sugar"
+        },
+        {
+            "amount":"250ml",
+            "ingredient":"sunflower oil"
+        },
+        {
+            "amount":"450g",
+            "ingredient":"self-raising flour",
+            "details": "sieved"
+        },
+        {
+            "amount":"2 tsp",
+            "ingredient":"baking powder"
+        },
+        {
+            "amount":"450g",
+            "ingredient":"carrot",
+            "details": "coarsely grated, plus extra to decorate"
+        },
+        {
+            "amount":"150g",
+            "ingredient":"apple",
+            "details": "coarsely grated"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"flaked coconut"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"walnuts",
+            "details": "lightly toasted and finely chopped"
+        },
+        {
+            "amount":"2 tsp",
+            "ingredient":"bicarbonate of soda"
+        },
+        {
+            "amount":"450g",
+            "ingredient":"cream cheese"
+        },
+        {
+            "amount":"350g",
+            "ingredient":"icing sugar"
+        }
+    ],
+    "instructions": [
+    	"Pre-heat the oven to 170˚C fan oven / 150˚C gas mark 3.",
+    	"Grease a 22cm spring form cake pan and line the base.",
+    	"Combine the eggs with the brown sugar and oil in a bowl.",
+    	"In a separate bowl, mix together the remaining ingredients except for the icing sugar and cream cheese, then fold in the egg mixture. Spoon into the cake tin.",
+    	"Cook for 1 hour 40 minutes or until well-risen. To test, insert a skewer into the cake's centre - it should come out clean. If the top gets too brown, cover it with foil.",
+    	"Leave the cake in the tin for 10 minutes, then remove and leave to cool on a wire rack.",
+    	"For the icing, beat together the cream cheese and the icing sugar with an electric whisk until smooth. Leave to harden for 30 minutes.",
+        "Spread the icing over the cake. If decorating with grated carrot, pat the carrot dry with kitchen paper, then sprinkle over the top."
+    ],
+    "tags": [
+        "bakes",
+        "sweet-things",
+        "afternoon-tea"
+    ], 
+    "image": "recipes/best-ever-carrot-cake.png",
+    "imageDesc": "A slice of carrot cake on a plate, decorated with icing and grated carrot.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/best-ever-carrot-cake"
+}

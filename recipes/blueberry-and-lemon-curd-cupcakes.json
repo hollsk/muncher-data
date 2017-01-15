@@ -1,0 +1,83 @@
+{
+    "title": "Blueberry and lemon curd cupcakes",
+    "description": "These beauties live up to every cupcake expectation. You can pipe the icing (as I've done here) or use an ice cream scoop to place it on the cakes and then swirl with a palette knife, as they do at Hummingbird.",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "credit": "Tarek Malouf of Hummingbird Bakery",
+    "tip": "At Hummingbird, we use two types of icing; buttercream and cream cheese. With buttercream, beat it for at least 5 minutes with an electric mixer. However cream cheese frosting can easily be over-whipped, so beat it for no longer than 2 minutes.",
+    "season": [
+        "spring"
+    ],
+    "course":"dessert",
+    "serves": "12",
+    "prep": "25 minutes",
+    "cook": "30 minutes",
+    "ingredients": [
+        {
+            "amount":"100g",
+            "ingredient":"blueberries"
+        },
+        {
+            "amount":"1/2",
+            "ingredient":"lemon",
+            "details":"zest and juice"
+        },
+        {
+            "amount":"220g",
+            "ingredient":"golden caster sugar"
+        },
+        {
+            "amount":"180g",
+            "ingredient":"butter",
+            "details":"softened"
+        },
+        {
+            "amount":"4",
+            "ingredient":"eggs"
+        },
+        {
+            "amount":"135ml",
+            "ingredient":"buttermilk"
+        },
+        {
+            "amount":"180g",
+            "ingredient":"self-raising flour"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"ground almonds",
+            "details": "or fine polenta"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"lemon curd"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"butter"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"icing sugar"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 180˚C, gas mark 4. Mix the blueberries in a pan with the lemon zest and juice and 40g caster sugar. Set over a high heat for 4-5 minutes, crushing the fruit roughly, until jammy; set aside.",
+        "Line a 12-hole muffin tin with paper muffin cases. Using electric beaters, cream together the remaining 180g caster sugar and the 180g butter until fluffy. Add the eggs, one at a time, beating between each addition. Whisk in the buttermilk, then the dry ingredients (not the icing sugar) and a pinch of salt, until well mixed.",
+        "Divide 1/2 the cake batter between the cases, then make an indent for the filling. Put 1/2 tsp blueberry compote into the centre of 6 cakes, and 1/2 tsp lemon curd in the rest. Divide the remaining batter between the cases, sealing in the filling. Bake for 20-25 minutes, until golden and a skewer inserted down the side of the cake comes out clean. Cool on a wire rack.",
+        "For the icing, in a large bowl, slowly beat the 100g butter, 100g icing sugar and a pinch of salt with electric beaters until it starts to come together. Increase the speed and beat for 2-3 minutes until really light and fluffy.",
+        "Split the icing between 2 bowls. Ripple the remaining compote through one and the lemon curd through the other. Put into piping bags; snip a 1cm hole off the end. Pipe on the icing, or spread with a palette knife."
+    ],
+    "tags": [
+        "afternoon-tea",
+        "sweet-things",
+        "fruit",
+        "cupcakes",
+        "bakes"
+    ],
+    "image": "recipes/blueberry-and-lemon-curd-cupcakes.png",
+    "imageDesc": "A rectangular plate of cupcakes with tower of icing piled on each. One is sliced in half, showing a blueberry compote centre.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/blueberry-and-lemon-curd-cupcakes"
+}

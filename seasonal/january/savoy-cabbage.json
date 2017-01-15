@@ -1,0 +1,25 @@
+{
+    "title": "Savoy cabbage",
+    "subheading":  "There is a particular beauty to savoy cabbages.",
+    "description": [
+        "The crinkled leaves, loosely gathered on the outside and tightly packed in the centre, seem to display an infinite array of greens, from deep seaweed to bright emerald. But it's not just looks that make savoys different from your average cabbage. The leaves are softer and more flexible, with a finer, sweeter flavour, and without the tendency to sulphurousness that once cursed the nation's school canteens.",
+        "All of these qualities make them one of the best cabbages to cook with. I think they are particularly good wilted with bacon and onions - and, if you like, a bit of carrot or celeriac - then wrapped in a blanket of cream. Otherwise, try them in caldo verde, the warming Portuguese soup of cabbage, potato and pork sausage, or it's equally peasanty Italian counterpart, ribollita. Or blanch the leaves and stuff them with a mixture of pork and rice, or mushrooms, leeks and nuts, before poaching them in stock.",
+        "Shredded, the leaves make a good stir-fry with onions, garlic and ginger, or can be mixed into a winter slaw in place of ordinary cabbage, adding softer texture as well as more vivid colour. Then again, you could always just cook and mix them with mash to make bubble and squeak. Add a fried egg and you have a fine supper."
+    ],
+    "credit": "Lucas Hollweg",
+    "month": "january",
+    "year": "2015",
+    "season": "winter",
+    "accompaniment":[
+        {
+            "title": "Gnocchi with caraway and savoy cabbage",
+            "url":"/recipes/gnocchi-with-caraway-and-savoy-cabbage",
+            "image": "recipes/gnocchi-with-caraway-and-savoy-cabbage.png"
+        }
+    ],    
+    "image": "ingredients/savoy-cabbage.png",
+    "imageDesc": "",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/seasonal/january/2015/savoy-cabbage"
+}

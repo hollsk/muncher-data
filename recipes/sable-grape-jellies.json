@@ -1,0 +1,59 @@
+{
+    "title": "Sable grape jellies",
+    "source": "Waitrose Kitchen",
+    "credit": "Lucas Hollweg",
+    "published": "March 2014",
+    "season": [
+        "spring"
+    ],
+    "course":"dessert",
+    "serves": 6,
+    "prep": "10 minutes",
+    "cook": "5 minutes",
+    "ingredients": [
+        {
+            "amount":"6 sheets of",
+            "ingredient":"gelatine"
+        },
+        {
+            "amount":"450ml",
+            "ingredient":"red grape juice"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"lemon juice"
+        },
+        {
+            "amount":"150ml",
+            "ingredient":"white wine",
+            "details": "dry"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"caster sugar"
+        },
+        {
+            "amount":"200g",
+            "ingredient":"sable grapes",
+            "details": "halved"
+        }
+    ],
+    "instructions": [
+        "Soak the gelatine in cold water for 5 minutes. Put the juices, wine, and sugar in a pan. Bring to a gentle simmer; stir to dissolve the sugar. Take off the heat.",
+        "Squeeze the water from the gelatine and add to the liquid. Stir until completely dissolved.",
+        "Line the bottom of 6 mini jelly moulds (about 150ml) with the grapes, cut side up, and put the remaining grapes on top. Transfer the jelly liquid to a jug and pour a little over the grapes to just cover them; chill for 1-2 hours until almost set; keep the remaining liquid at room temperature.",
+        "Pour the remaining liquid over the jellies; chill overnight.",
+        "Dip the moulds in hot water to release the jellies; turn out onto small plates to serve."
+    ],
+    "tags": [
+        "simple",
+        "fruit",
+        "fancy",
+        "sweet-things"
+    ],
+    "image": "recipes/sable-grape-jellies.png",
+    "imageDesc": "Two fancy saucers with dark red jellies in the middle, garnished with scattered sable grapes.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/sable-grape-jellies"
+}

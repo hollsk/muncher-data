@@ -1,0 +1,66 @@
+{
+    "title": "Toad in the hole with red onion gravy",
+    "source": "Waitrose Kitchen",
+    "tip": "To guarantee a perfectly puffed-up Yorkshire, add the batter when the oil is smoking hot, and don't open the oven door until it's cooked through.",
+    "published": "March 2014",
+    "season": [
+        "autumn",
+        "winter"
+    ],
+    "course":"dinner",
+    "accompaniment":[
+        {
+            "title": "Red onion gravy",
+            "url": "/recipes/red-onion-gravy"
+        }
+    ],
+    "serves": "4-6",
+    "prep": "20 minutes, plus resting",
+    "cook": "1 hour 20 minutes",
+    "ingredients": [
+        {
+            "amount":"100ml",
+            "ingredient":"vegetable oil"
+        },
+        {
+            "amount":"8",
+            "ingredient":"sausages"
+        },
+        {
+            "amount":"4 sprigs",
+            "ingredient":"rosemary"
+        },
+        {
+            "amount":"120g",
+            "ingredient":"plain flour"
+        },
+        {
+            "amount":"3",
+            "ingredient":"eggs",
+            "details": "beaten"
+        },
+        {
+            "amount":"200ml",
+            "ingredient":"whole milk"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 180˚C, gas mark 4. Start by making the gravy.",
+        "Keeping the gravy warm, put the oil in a small roasting tray (about 1 litre in volume), add the sausages, and toss to coat. Roast for 15-20 minutes, turning halfway through, until browned.",
+        "For the batter, put the flour in a bowl and make a well in the centre. Add the eggs and half the milk; beat to a thick batter. Gradually whisk in the remaining milk, season well and leave to rest for at least 15 minutes.",
+        "Increase the oven temperature to 200˚C, gas mark 6. Add the rosemary sprigs to the sausages, then pour in the batter. Quickly return to the oven for 20-25 minutes until the batter is cooked through and well puffed. Serve with the onion gravy and some mash and green vegetables."
+    ],
+    "tags": [
+        "hearty",
+        "rich",
+        "roasts",
+        "sunday-lunch",
+        "vegetarian",
+        "sausages"
+    ],
+    "image": "recipes/toad-in-the-hole-with-red-onion-gravy.png",
+    "imageDesc": "A roasting tray filled with well-cooked batter and crispy-skinned sausages, scattered with rosemary. ",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/toad-in-the-hole-with-red-onion-gravy"
+}

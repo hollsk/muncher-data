@@ -1,0 +1,73 @@
+{
+    "title": "One-pot roast chicken",
+    "description": "The oven can do the work, while you put your feet up",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "winter",
+        "autumn"
+    ],
+    "special": [
+        "Christmas",
+        "Easter"
+    ],
+    "course":"main",
+    "serves": 2,
+    "prep": "15 minutes",
+    "cook": "50 minutes",
+    "ingredients": [
+        {
+            "amount":"1",
+            "ingredient":"poussin",
+            "details": "medium"
+        },
+        {
+            "amount":"400g",
+            "ingredient":"mixed winter vegetables",
+            "details": "baby turnips, marrows, parsnips etc., peeled and cut into chunks"
+        },
+        {
+            "amount":"100ml",
+            "ingredient":"chicken stock"
+        },
+        {
+            "amount":"100ml",
+            "ingredient":"white wine",
+            "details": "dry"
+        },
+        {
+            "amount":"Small bunch of",
+            "ingredient":"thyme"
+        },
+        {
+            "amount":"25g",
+            "ingredient":"butter",
+            "details": "unsalted"
+        },
+        {
+            "amount":"25-50ml",
+            "ingredient":"double cream"
+        }
+    ],
+    "instructions": [
+    	"Preheat oven to 190˚C fan / 170˚C gas mark 5.",
+    	"Place poussin in a roasting tray and surround with the vegetables. Pour over the stock and wine.",
+    	"Tuck thyme in the vegetables and on the poussin. Dot the butter over the poussin and season well.",
+    	"Roast for 45 minutes or until the juices run clear. Remove the poussin and wrap in foil.",
+    	"Place the vegetables in a new tray and keep warm.",
+    	"Place the original baking tray over a medium heat on the hob and bring the juices to the boil. Add cream and stir to combine. Strain and pour into a warm jug.",
+    	"Serve immediately with the chicken and vegetables."
+    ],
+    "tags": [
+        "simple",
+        "chicken",
+        "roasts",
+        "hearty",
+        "sunday-lunch"
+    ], 
+    "image": "recipes/one-pot-roast-chicken.png",
+    "imageDesc": "A roasted chicken with vegetables, served in a copper pan",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/one-pot-roast-poussin"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Happy tomato and goat's cheese tart",
+    "description": "Feeling in a Monday growl-at-everyone mood? This will lift your spirits.",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "spring",
+        "summer"
+    ],
+    "course": [
+        "main"
+    ],
+    "serves": 4,
+    "prep": "5 minutes",
+    "cook": "25 minutes",
+    "ingredients": [
+        {
+            "amount":"300g",
+            "ingredient":"puff pastry",
+            "details": "ready-made"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"goat's cheese and herb roll",
+            "details": "cut into slices"
+        },
+        {
+            "amount":"4 tbsp",
+            "ingredient":"pesto"
+        },
+        {
+            "amount":"1",
+            "ingredient":"red onion",
+            "details": "small, peeled and sliced into rings"
+        },
+        {
+            "amount":"400g",
+            "ingredient":"tomatoes",
+            "details": "mixed (try baby, plum, yellow, and cherry)"
+        },
+        {
+            "ingredient":"basil",
+            "details": "oil, if available, and fresh leaves to serve"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 200˚C, 180˚C fan.",
+        "Lightly roll out the pastry thinly onto a floured work surface, trim to a 23cm x 23cm square, and line the sides and base of a shallow, lightly greased square tin.",
+        "Prick the base with a fork.",
+        "Spread the cheese slices over the base, then spoon over the pesto.",
+        "Add the onion slices, Cut some of the tomatoes in half and leave some whole, depending on their size, then arrange them on the top and season.",
+        "Bake in the oven for 25-30 minutes or until risen and golden.",
+        "To serve, drizzle with basil oil and garnish with basil leaves."
+    ],
+    "tags": [
+        "mediterranean",
+        "puff-pastry",
+        "simple",
+        "vegetarian"
+    ],
+    "image": "recipes/happy-tomato-and-goats-cheese-tart.png",
+    "imageDesc": "A roasting tin resting on a kitchen towel. Inside is a puff pastry tart with juicy baked tomatoes and cheese, with some basil leaves scattered on top.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/happy-tomato-and-goats-cheese-tart"
+}

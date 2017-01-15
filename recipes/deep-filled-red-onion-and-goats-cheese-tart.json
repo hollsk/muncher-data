@@ -1,0 +1,81 @@
+{
+    "title": "Deep filled red onion and goat's cheese tart",
+    "description": "A creamy, cheesy tart that's perfect for sharing with friends over a lazy lunch",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "spring",
+        "summer"
+    ],
+    "course":[
+        "main",
+        "lunch"
+    ],
+    "serves": 6,
+    "prep": "10 minutes",
+    "cook": "50 minutes",
+    "ingredients": [
+        {
+            "amount":"450g",
+            "ingredient":"shortcrust pastry"
+        },
+        {
+            "amount":"60ml",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"8",
+            "ingredient":"red onions",
+            "details": "peeled, thinly sliced"
+        },
+        {
+            "amount":"30ml",
+            "ingredient":"balsamic vinegar"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"goat's cheese",
+            "details": "soft"
+        },
+        {
+            "amount":"300ml",
+            "ingredient":"double cream"
+        },
+        {
+            "amount":"3",
+            "ingredient":"eggs",
+            "details": "large, plus 2 yolks"
+        },
+        {
+            "amount":"350g",
+            "ingredient":"goat's cheese",
+            "details": "hard, halved and sliced"
+        },
+        {
+            "amount":"handful of",
+            "ingredient":"chives",
+            "details": "roughly chopped, to garnish"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 200˚C, 180˚C fan.",
+        "Roll the pastry and line a deep 18cm loose-bottomed tin. Freeze for an hour.",
+        "Place the oil in a large pan and fry the onion slices for 15 minutes until golden.",
+        "Turn up the heat, add the vinegar. Cook for 2 minutes. Remove from the heat and mix in soft cheese until melted. Season.",
+        "Remove pastry case from the freezer and prick the base. Line with greaseproof paper and baking beans; blind bake for 10 minutes. Remove paper and beans, then bake for a further 10 minutes until golden. Remove from the oven, and reduce the heat to 180˚C / 160˚C fan.",
+        "Lightly whisk together the cream, eggs, and extra yolks. Add the onions to the case, then pour over the cream mix. Arrange hard goat's cheese on top.",
+        "Bake for 20-25 minutes. Garnish with chives and serve warm or cold."
+    ],
+    "tags": [
+        "simple",
+        "shortcrust-pastry",
+        "hearty",
+        "rich",
+        "vegetarian" 
+    ],
+    "image": "recipes/deep-filled-red-onion-and-goats-cheese-tart.png",
+    "imageDesc": "A deep dish shortcrust tart with slices of baked goat's cheese, sprinkled with fresh snipped chives.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/deep-filled-red-onion-and-goats-cheese-tart"
+}

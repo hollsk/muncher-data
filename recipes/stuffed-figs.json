@@ -1,0 +1,61 @@
+{
+    "title": "Stuffed figs",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "course":[
+        "starter",
+        "main",
+        "lunch"
+    ],
+    "serves": 4,
+    "prep": "5 minutes",
+    "cook": "2-3 minutes",
+    "ingredients": [
+        {
+            "amount":"12",
+            "ingredient":"figs",
+            "details": "fresh"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"gorgonzola",
+            "details": "or other fresh blue cheese"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"rocket"
+        },
+        {
+            "ingredient":"olive oil"
+        },
+        {
+            "ingredient":"honey",
+            "details": "to serve"
+        }
+    ],
+    "instructions": [
+        "Slice each fig into quarters from the top, taking care to leave the bottoms intact.",
+        "Divide the cheese into 12 portions and use it to stuff the figs.",
+        "Place the figs under a hot grill for 2-3 minutes, or until the cheese melts.",
+        "Divide the rocket between four plates and drizzle with olive oil.",
+        "Sit three figs on each plate, drizzle honey onto the melted cheese and serve immediately."
+    ],
+    "tags": [
+        "vegetarian",
+        "light",
+        "simple",
+        "fancy",
+        "fruit",
+        "mediterranean"
+    ],
+    "image": "recipes/stuffed-figs.png",
+    "imageDesc": "Three stuffed figs on a bed of rocket",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/stuffed-figs"
+}

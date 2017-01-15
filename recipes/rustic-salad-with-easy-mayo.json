@@ -1,0 +1,86 @@
+{
+    "title": "Rustic salad with easy mayo",
+    "description": "What could be better than a simple salad, crusty bread, and no-hassle mayo?",
+    "supplementary": "Keep life simple with this crispy salad.",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "summer",
+        "spring"
+    ],
+    "course":"main",
+    "serves": 6,
+    "prep": "10 minutes",
+    "cook": "8 minutes",
+    "ingredients": [
+        {
+            "amount":"2",
+            "ingredient":"egg yolks"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"dijon mustard"
+        },
+        {
+            "amount":"3",
+            "ingredient":"shallots",
+            "details": "peeled and roughly chopped"
+        },
+        {
+            "amount":"250ml",
+            "ingredient":"grapeseed oil"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"white wine vinegar"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"lemon juice"
+        },
+        {
+            "amount":"2",
+            "ingredient":"cos lettuce",
+            "details": "outer leaves stripped"
+        },
+        {
+            "amount":"small bunch of",
+            "ingredient":"watercress"
+        },
+        {
+            "amount":"3 x 250g",
+            "ingredient":"tuna",
+            "details": "canned, in olive oil"
+        },
+        {
+            "amount":"3",
+            "ingredient":"eggs",
+            "details": "medium-boiled"
+        },
+        {
+            "amount":"6 tbsp",
+            "ingredient":"lemon juice"
+        },
+        {
+            "amount":"small bunch of",
+            "ingredient":"tarragon"
+        }
+    ],
+    "instructions": [
+        "For the mayo, place the yolks, mustard, shallots and some salt in a food processor; blend for about 20 seconds.",
+        "Motor running, slowly add the oil; then the vinegar, and 2 tbsp lemon juice.",
+        "For the salad, wash and dry the lettuce and watercress; divide between six serving bowls. Add the tuna to the bowls and place half an egg in each.",
+        "Add the juice of half a lemon to each bowl, add the tarragon, season. Serve with a dollop of mayonnaise."
+    ],
+    "tags": [
+        "simple",
+        "salads",
+        "light",
+        "vegetarian"
+    ],
+    "image": "recipes/rustic-salad-and-easy-mayo.png",
+    "imageDesc": "A large bowl filled with romaine lettuce, a boiled egg, and tuna, with crusty bread and mayonnaise on the side.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/rustic-salad-with-easy-mayo"
+}

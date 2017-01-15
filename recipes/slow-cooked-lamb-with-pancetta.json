@@ -1,0 +1,103 @@
+{
+    "title": "Slow-cooked lamb with pancetta",
+    "description": "Invite friends for lunch round the kitchen table - the oven does the work",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "spring",
+        "autumn",
+        "winter"
+    ],
+    "special": [
+        "Easter"
+    ],
+    "course": [
+        "lunch",
+        "dinner"
+    ],
+    "serves": 6,
+    "prep": "35 minutes",
+    "cook": "2 hours",
+    "ingredients": [
+        {
+            "amount":"6",
+            "ingredient":"lamb shanks",
+            "details": "French-trimmed"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"140g",
+            "ingredient":"cubetti pancetta"
+        },
+        {
+            "amount":"18",
+            "ingredient":"shallots",
+            "details": "peeled"
+        },
+        {
+            "amount":"300g",
+            "ingredient":"baby carrots",
+            "details": "trimmed"
+        },
+        {
+            "amount":"1",
+            "ingredient":"onion",
+            "details": "large, finely chopped"
+        },
+        {
+            "amount":"2 cloves",
+            "ingredient":"garlic",
+            "details": "crushed"
+        },
+        {
+            "amount":"100ml",
+            "ingredient":"brandy"
+        },
+        {
+            "amount":"500ml",
+            "ingredient":"red wine"
+        },
+        {
+            "amount":"300ml",
+            "ingredient":"vegetable stock"
+        },
+        {
+            "amount":"1",
+            "ingredient":"orange",
+            "details": "zest"
+        },
+        {
+            "amount":"2 sprigs",
+            "ingredient":"rosemary",
+            "details": "stalks removed"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 170˚C, gas mark 3, fan oven 150˚C. ",
+        "Dust the lamb in seasoned flour.",
+        "Heat 1 tbsp of oil in a pan. Brown the lamb in batches, adding oil if needed.",
+        "Put the lamb flat in a deep oven dish. ",
+        "Add the pancetta to the hot pan and fry until crisp. Scatter over the lamb.",
+        "In the remaining oil, gently brown the shallots and carrots. Add to the lamb.",
+        "Fry the onion and garlic until soft, add the brandy and reduce slightly.",
+        "Spoon onto the lamb, followed by the wine, stock, zest and rosemary. ",
+        "Season, cover with foil, and cook in the oven for 2 hours until tender, removing the foil 25 minutes from the end.",
+        "Garnish with parsley and serve with roasted root vegetables."
+    ],
+    "tags": [
+        "hearty",
+        "sunday-lunch",
+        "roasts",
+        "rich",
+        "lamb",
+        "easter"
+    ],
+    "image": "recipes/slow-cooked-lamb-with-pancetta.png",
+    "imageDesc": "A bowl containing a tender slow-cooked lamb shank sits on a plate with some root vegetables. The vegetables are scattered with rosemary and sea salt.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/slow-cooked-lamb-with-pancetta"
+}

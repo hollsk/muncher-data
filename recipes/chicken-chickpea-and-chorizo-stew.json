@@ -1,0 +1,97 @@
+{
+    "title": "Chicken, chickpea, and chorizo stew",
+    "description": "You could even try this stew with meaty white fish such as hake or cod. It tastes even better the next day.",
+    "source": "Waitrose Kitchen",
+    "credit": "Matt Tebbutt",
+    "published": "March 2014",
+    "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "course":"main",
+    "serves": 4,
+    "prep": "10 minutes",
+    "cook": "55 minutes",
+    "ingredients": [
+        {
+            "amount":"2 tbsp",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"600g",
+            "ingredient":"chicken thigh fillets"
+        },
+        {
+            "amount":"200g",
+            "ingredient":"cooking chorizo",
+            "details": "chopped"
+        },
+        {
+            "amount":"1",
+            "ingredient":"onion",
+            "details": "sliced"
+        },
+        {
+            "amount":"3 cloves of",
+            "ingredient":"garlic",
+            "details": "peeled and left whole"
+        },
+        {
+            "amount":"2 stalks of",
+            "ingredient":"celery",
+            "details": "chopped"
+        },
+        {
+            "amount":"1",
+            "ingredient":"red chilli",
+            "details": "deseeded and chopped"
+        },
+        {
+            "amount":"100ml",
+            "ingredient":"dry sherry or white wine"
+        },
+        {
+            "amount":"400g",
+            "ingredient":"chickpeas",
+            "details": "canned"
+        },
+        {
+            "amount":"400g",
+            "ingredient":"tomatoes",
+            "details": "chopped, canned"
+        },
+        {
+            "amount":"250ml",
+            "ingredient":"chicken stock"
+        },
+        {
+            "amount":"2",
+            "ingredient":"courgettes",
+            "details": "chopped"
+        },
+        {
+            "amount":"handful of",
+            "ingredient":"flat leaf parsley",
+            "details": "roughly chopped"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large casserole over a medium-high heat. Season the chicken and brown for 3-4 minutes on each side.",
+        "Throw the chorizo, onion, garlic, celery and chilli into the pan and cook for a further 10 minutes, stirring occasionally.",
+        "Add the wine or sherry and bring to the boil; add the chickpeas and tomatoes. Simmer and reduce for 5 minutes, then add the stock and courgettes. Simmer gently for 25 minutes. Scatter with the parsley. Serve with boiled potatoes or crusty bread."
+    ],
+    "tags": [
+        "simple",
+        "hearty",
+        "chicken",
+        "stews",
+        "mediterranean"
+    ],
+    "image": "recipes/chicken-chickpea-and-chorizo-stew.png",
+    "imageDesc": "A bright chicken casserole served straight from the casserole dish, scattered with parsley leaves.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/chicken-chickpea-and-chorizo-stew"
+}

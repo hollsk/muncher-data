@@ -1,0 +1,88 @@
+{
+    "title": "Victoria sandwich",
+    "description": "There is debate over the 'right' way to decorate this British classic. Here it's jam, cream and caster sugar, but for our gorgeous cover we added fresh raspberries.",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "season": [
+        "spring",
+        "summer"
+    ],
+    "special": [
+        "Easter"
+    ],
+    "course":"dessert",
+    "serves": 8,
+    "prep": "30 minutes, plus cooling",
+    "cook": "25 minutes",
+    "ingredients": [
+        {
+            "amount":"240g",
+            "ingredient":"butter",
+            "details": "softened, plus extra for greasing"
+        },
+        {
+            "amount":"240g",
+            "ingredient":"golden caster sugar",
+            "details": "plus extra for dusting"
+        },
+        {
+            "amount":"4",
+            "ingredient":"eggs"
+        },
+        {
+            "amount":"2 tsp",
+            "ingredient":"vanilla extract"
+        },
+        {
+            "amount":"1",
+            "ingredient":"lemon",
+            "details": "zest"
+        },
+        {
+            "amount":"240g",
+            "ingredient":"plain flour"
+        },
+        {
+            "amount":"1.5 tsp",
+            "ingredient":"baking powder"
+        },
+        {
+            "amount":"3-4 tbsp",
+            "ingredient":"whole milk"
+        },
+        {
+            "amount":"200ml",
+            "ingredient":"double cream"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"vanilla extract"
+        },
+        {
+            "amount":"2-3 tbsp",
+            "ingredient":"icing sugar",
+            "details": "to taste"
+        },
+        {
+            "amount":"5 tbsp",
+            "ingredient":"raspberry jam"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 180˚C, gas mark 4. Grease and line the bases of 2 x 20cm sandwich tins. Use electric beaters to cream the butter and caster sugar together until light and fluffy. Add the eggs one at a time, beating well between each. Stir through the 2 tbsp vanilla and lemon zest.",
+        "Gently fold the flour, baking powder and a pinch of salt into the cake batter until evenly incorporated. Carefully mix in enough milk until the batter has a soft 'dropping' consistency. Divide between the tins and smooth the surface so that it fills the tin.",
+        "Bake for 20-25 minutes until golden and a skewer inserted into the centre comes out clean. Cool in the tin for a few minutes, then remove, peel off the parchment and cool on a wire rack.",
+        "For the filling, whip the cream, vanilla, and icing sugar to soft peaks. Pick a sponge to use as your base and trim the top to flatten, if domed. Spread the surface with the raspberry jam and then the whipped cream. Place the other sponge on top, dust with a little caster sugar, and serve."
+    ],
+    "tags": [
+        "afternoon-tea",
+        "bakes",
+        "sweet-things",
+        "fruit"
+    ],
+    "image": "recipes/victoria-sandwich.png",
+    "imageDesc": "A close-up of two-layered cake with cream, jam, and fresh raspberries between the layers. A lace decoration has been dusted onto the top with icing sugar.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/victoria-sandwich"
+}

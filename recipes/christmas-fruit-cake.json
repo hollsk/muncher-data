@@ -1,0 +1,127 @@
+{
+    "title": "Christmas fruit cake",
+    "description": "This is best when kept for 3 months and fed every week. If you only have 1 month, feed it twice a week and leave for at least 5 days before serving.",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "season": [
+        "winter"
+    ],
+    "special": "Christmas",
+    "course":"dessert",
+    "serves": 12,
+    "prep": "40 minutes, plus overnight soaking and cooking",
+    "cook": "3-4 hours",
+    "ingredients": [
+        {
+            "amount":"300g",
+            "ingredient":"raisins"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"currants"
+        },
+        {
+            "amount":"200g",
+            "ingredient":"sultanas"
+        },
+        {
+            "amount":"150g",
+            "ingredient":"mixed peel"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"glacé cherries",
+            "details": "halved"
+        },
+        {
+            "amount":"75ml",
+            "ingredient":"brandy",
+            "details": "plus extra for feeding"
+        },
+        {
+            "amount":"2",
+            "ingredient":"oranges",
+            "details": "zest and juice"
+        },
+        {
+            "amount":"1",
+            "ingredient":"lemon",
+            "details": "zest and juice"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"butter",
+            "details": "plus extra for greasing"
+        },
+        {
+            "amount":"225g",
+            "ingredient":"muscovado sugar"
+        },
+        {
+            "amount":"1",
+            "ingredient":"egg yolk"
+        },
+        {
+            "amount":"5",
+            "ingredient":"eggs"
+        },
+        {
+            "amount":"300g",
+            "ingredient":"plain flour"
+        },
+        {
+            "amount":"1.5 tsp",
+            "ingredient":"baking powder"
+        },
+        {
+            "amount":"2 tsp",
+            "ingredient":"mixed spice"
+        },
+        {
+            "amount":"2 tsp",
+            "ingredient":"ground cinnamon"
+        },
+        {
+            "amount":"0.5 tsp",
+            "ingredient":"ground cloves"
+        },
+        {
+            "amount":"0.5 tsp",
+            "ingredient":"nutmeg",
+            "details": "ground or grated"
+        },
+        {
+            "amount":"3 tbsp",
+            "ingredient":"black treacle"
+        },
+        {
+            "amount":"2 tsp",
+            "ingredient":"vanilla extract"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"whole almonds",
+            "details": "roughly chopped"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, mix all the dried fruits with the brandy, citrus zests and juices. Cover with clingfilm and leave in a cool place overnight or 24 hours.",
+        "Preheat the oven to 140˚C, gas mark 1. Grease a deep 23cm springform cake tin and line with a double layer of parchment paper, to at least 6cm above the sides of the tin. Wrap the tin in a double layer of brown parcel paper (or newspaper) 2-3cm above the sides of the tin; tie with string.",
+        "Cream the butter and sugar until light and fluffy. Add the yolk and the eggs, one at a time, beating well with a few tbsp of flour between each. Mix in the remaining ingredients, then fold in the soaked fruit. Spoon into the tin and even out the surface.",
+        "Bake for 2 hours until set on top, then cover with 2 circles of parchment paper. Check the cake every 30 minutes until it is firm to the touch and a skewer inserted into the centre comes out clean. This will take 3-4 hours or longer, depending on your oven.",
+        "Remove from the oven and pierce a dozen holes in the surface. Pour over 3 tbsp of brandy and cool in the tin for 45 minutes. Take out of the tin, transfer to a wire rack, remove the parchment, and leave to cool completely.",
+        "Once cool, feed the cake again with more brandy and leave to soak in. Wrap in a double layer of parchment, cover tightly with foil, and continue to feed until needed."
+    ],
+    "tags": [
+        "christmas",
+        "bakes",
+        "fancy",
+        "fruit",
+        "rich"
+    ],
+    "image": "recipes/christmas-fruit-cake.png",
+    "imageDesc": "A slice of fruit cake on a china plate, topped with runny fondant icing.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/christmas-fruit-cake"
+}

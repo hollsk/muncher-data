@@ -1,0 +1,52 @@
+{
+    "title": "Home-made tartare sauce",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "course":"side",
+    "accompaniment":[
+        {
+            "title": "Baked fish and chips",
+            "url": "/recipes/baked-fish-and-chips"
+        }
+    ],
+    "serves": 4,
+    "prep": "5 minutes",
+    "ingredients": [
+        {
+            "amount":"200ml",
+            "ingredient":"crème fraiche"
+        },
+        {
+            "amount":"4-6",
+            "ingredient":"cornichons",
+            "details": "roughly chopped"
+        },
+        {
+            "amount":"6-8",
+            "ingredient":"green olives",
+            "details": "pitted and roughly chopped"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"capers",
+            "details": "roughly chopped"
+        },
+        {
+            "amount":"2-3 tbsp",
+            "ingredient":"lemon juice"
+        }
+    ],
+    "instructions": [
+    	"Mix the ingredients for the sauce together in a small bowl and season with pepper.",
+    	"Keep covered, and serve shortly."
+    ],
+    "tags": [
+        "sides",
+        "vegetarian"
+    ], 
+    "image": "recipes/baked-fish-and-chips.png",
+    "imageDesc": "A portion of baked fish and chips on a wooden board, with chunky tartare sauce in a small bowl to the side.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/home-made-tartare-sauce"
+}

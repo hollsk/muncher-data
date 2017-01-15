@@ -1,0 +1,25 @@
+{
+    "title": "Sharon Fruit",
+    "subheading": "These cheerful,tomato-shaped orange spheres are a kind of persimmon, a fruit beloved of Asia and the eastern Mediterranean.",
+    "description": [
+        "For a long time, they went largely unnoticed by us northen Europeans, though their popularity has grown in recent years and they are now one of the bestselling exotic fruits. Like all persimmons, their bright colour gives them a bauble-like attraction. I once came upon a persimmon tree in Granada in southern Spain. It was early January and the branches were bare, save for the fruit, which glowed like lanterns against the winter sky.",
+        "Sharons lack the sharpness of some persimmon varieties, so can be eaten when under-ripe. At this stage, the flesh beneath the waxy skin is almost apple-ish in texture, though it yields as it ripens and matures.",
+        "Savoury as well as sweet, use them peeled in salads, chop them into salsas, or bake in the oven with sugar and spice to serve with something creamy; the flesh inside will resemble cooked apricot."
+    ],
+    "credit": "Lucas Hollweg",
+    "month": "january",
+    "year": "2015",
+    "season": "winter",
+    "accompaniment":[
+        {
+            "title": "Baked sharon fruit",
+            "url":"/recipes/baked-sharon-fruit",
+            "image": "recipes/baked-sharon-fruit.png"
+        }
+    ],    
+    "image": "ingredients/sharon-fruit.png",
+    "imageDesc": "",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/seasonal/january/2015/sharon-fruit"
+}

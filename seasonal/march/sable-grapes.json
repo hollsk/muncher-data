@@ -1,0 +1,24 @@
+{
+    "title": "Sable grapes",
+    "subheading": "There is a good argument for eating these dark-skinned seedless grapes from South Africa just as they are.",
+    "description": [
+        "The flavour is distinctively sweet (I'm told they are 15 per cent sweeter than your average table grape) with notes of muscat perfume and a texture that is firm without being crisp. If you don't want to take them along a sweet route (they make a great addition to fruit salads, and jelly), try them as a light lunch with a blob of soft goat's cheese, halving the grapes before piling them with the cheese onto a rustic piece of toast.",
+        "Alternatively, throw a handful into a simple salad with feta and leaves, scatter into a classic Waldorf, or use them to add dots of colour and sweetness to a late winter salad of cooked cauliflower, walnuts, and parsely leaves, dressed in the simplest of vinaigrettes."
+    ],
+    "credit": "Lucas Hollweg",
+    "month": "march",
+    "year": "2014",
+    "season": "spring",
+    "accompaniment":[
+        {
+            "title": "Sable grape jellies",
+            "url":"/recipes/sable-grape-jellies",
+            "image": "recipes/sable-grape-jellies.png"
+        }
+    ],    
+    "image": "ingredients/sable-grapes.png",
+    "imageDesc": "A painted wicker basket filled with freshly-washed sable grapes, rested on a painted wooden table.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/seasonal/march/2014/sable-grapes"
+}

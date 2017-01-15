@@ -1,0 +1,82 @@
+{
+    "title": "Keep-it-simple chicken risotto",
+    "description": "No need to spend time watching the pot - just fling everything in the oven and our risotto almost cooks itself",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "course":"main",
+    "serves": 4,
+    "prep": "10 minutes",
+    "cook": "1 hour",
+    "ingredients": [
+        {
+            "amount":"240g",
+            "ingredient":"rice",
+            "details": "risotto"
+        },
+        {
+            "amount":"750ml",
+            "ingredient":"chicken stock"
+        },
+        {
+            "amount":"50g",
+            "ingredient":"butter"
+        },
+        {
+            "amount":"350g",
+            "ingredient":"butternut squash",
+            "details": "peeled and diced"
+        },
+        {
+            "amount":"2",
+            "ingredient":"leeks",
+            "details": "quartered"
+        },
+        {
+            "amount":"1",
+            "ingredient":"red pepper",
+            "details": "deseeded and quartered"
+        },
+        {
+            "amount":"4 cloves of",
+            "ingredient":"garlic"
+        },
+        {
+            "amount":"4",
+            "ingredient":"chicken",
+            "details": "breasts, skinless"
+        },
+        {
+            "amount":"handful of",
+            "ingredient":"oregano",
+            "details": "fresh"
+        },
+        {
+            "amount":"200g",
+            "ingredient":"parmesan",
+            "details": "grated"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 200˚C / 180˚C fan.",
+        "Place the rice, stock, butter, and squash in a covered casserole dish. Cook in the oven for 30 minutes.",
+        "Stir and add a little water if it looks dry - there should be a small amount of liquid. Cook for a further 30 minutes.",
+        "While the rice cooks, place the leeks, pepper, and garlic cloves on a baking tray. Drizzle with olive oil. Cook on the bottom shelf for 20 minutes.",
+        "Heat a little olive oil in a frying pan. Season the chicken and cook on both sides until golden and cooked through. Cut the chicken into strips.",
+        "Remove the rice from the oven, stir, and spoon onto warm serving plates. Top with the roasted leeks, peppers and garlic, and the hot chicken strips, then scatter over oregano and parmesan."
+    ],
+    "tags": [
+        "chicken",
+        "simple",
+        "hearty"
+    ],
+    "image": "recipes/keep-it-simple-chicken-risotto.png",
+    "imageDesc": "A plate of warm risotto rice, with strips of chicken and roasted vegetables laid across the top.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/keep-it-simple-chicken-risotto"
+}

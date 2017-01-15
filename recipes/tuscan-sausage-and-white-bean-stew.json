@@ -1,0 +1,81 @@
+{
+    "title": "Tuscan sausage and white bean stew",
+    "description": "This is the quintessential one-pot winter meal. The beans will fill you up and are a great source of protein and fibre. You can easily leave out the sausage and use vegetable stock to make it veggie, too.",
+    "source": "Waitrose Kitchen",
+    "credit": "Dara Sutin",
+    "published": "January 2015",
+    "season": [
+        "winter"
+    ],
+    "course":"main",
+    "serves": 4,
+    "prep": "10 minutes",
+    "cook": "30 minutes",
+    "ingredients": [
+        {
+            "amount":"1 tbsp",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"1",
+            "ingredient":"onion",
+            "details": "chopped"
+        },
+        {
+            "amount":"2 cloves of",
+            "ingredient":"garlic"
+        },
+        {
+            "amount":"2",
+            "ingredient":"carrots",
+            "details": "diced"
+        },
+        {
+            "amount":"4",
+            "ingredient":"sausages",
+            "details": "sliced"
+        },
+        {
+            "amount":"500ml",
+            "ingredient":"chicken stock",
+            "details": "fresh"
+        },
+        {
+            "amount":"400g",
+            "ingredient":"tomatoes",
+            "details": "chopped, in can"
+        },
+        {
+            "amount":"400g",
+            "ingredient":"cannellini beans",
+            "details": "canned, drained and rinsed"
+        },
+        {
+            "amount":"25g",
+            "ingredient":"parsley",
+            "details": "flat leaf, leaves and stalks separated, chopped"
+        },
+        {
+            "amount":"200g",
+            "ingredient":"cavolo nero",
+            "details": "tough stems discarded, leaves roughly chopped"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large pan over a medium heat. Add the onion and sauté for 3 minutes, until beginning to soften. Finely chop the garlic and add along with the carrots; cook for 2 minutes.",
+        "Add the sausage and cook for a further 5 minutes, stirring occasionally, until just turning golden.",
+        "Tip in the stock, tomatoes, beans, parsley stalks and 500ml water. Bring to the boil then simmer gently for 15 minutes. Add the cavolo nero and simmer for another 5 minutes. Season, stir the parsley leaves through, and serve."
+    ],
+    "tags": [
+        "simple",
+        "mediterranean",
+        "vegetarian",
+        "stews",
+        "sausages"
+    ],
+    "image": "recipes/tuscan-sausage-and-white-bean-stew.png",
+    "imageDesc": "A vintage saucepan filled with cabbage, beans, and sausages.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/tuscan-sausage-and-white-bean-stew"
+}

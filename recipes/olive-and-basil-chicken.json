@@ -1,0 +1,67 @@
+{
+    "title": "Olive and basil chicken",
+    "description": "A fresh herb sauce transforms a weeknight supper - light, tasty, and simple to make",
+    "supplementary": "A herby sauce enlivens humble chicken. Serve with extra-creamy garlic mash, load up a tray, and head for the sofa.",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "spring",
+        "summer"
+    ],
+    "course":"main",
+    "serves": 6,
+    "prep": "20 minutes",
+    "cook": "20 minutes",
+    "ingredients": [
+        {
+            "amount":"6",
+            "ingredient":"chicken",
+            "details": "breasts, boneless and skinless"
+        },
+        {
+            "amount":"200ml",
+            "ingredient":"olive oil",
+            "details": "extra-virgin"
+        },
+        {
+            "amount":"1",
+            "ingredient":"lemon",
+            "details": "zest and juice"
+        },
+        {
+            "amount":"4",
+            "ingredient":"garlic",
+            "details": "cloves, finely diced"
+        },
+        {
+            "amount":"large handful of",
+            "ingredient":"basil leaves"
+        },
+        {
+            "amount":"10 large",
+            "ingredient":"green olives",
+            "details": "stoned"
+        }
+    ],
+    "instructions": [
+        "Trim the chicken breasts of any fat and the mini fillets flaps.",
+        "Place each breast between two sheets of cling film and gently beat with a rolling pin until half their thickness. Place in a shallow bowl.",
+        "Mix 7tbsp olive oil with the lemon zest and half the garlic. Add the chicken.",
+        "Season with black pepper, then cover and chill.",
+        "Place the remaining garlic, olives, and basil into a blender. Add the lemon juice and the remaining oil. Blend until smooth and season to taste.",
+        "Preheat a griddle or non-stick pan over a medium heat. Cook the chicken for 8 minutes, turning halfway through.",
+        "Spoon the sauce over each chicken breast and serve over mash."
+    ],
+    "tags": [
+        "chicken",
+        "light",
+        "mediterranean",
+        "simple",
+        "fancy"
+    ],
+    "image": "recipes/olive-and-basil-chicken.png",
+    "imageDesc": "A golden, griddled chicken breast on a ceramic plate, with a thick herb sauce generously laid over the top.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/olive-and-basil-chicken"
+}

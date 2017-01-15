@@ -1,0 +1,89 @@
+{
+    "title": "Chocolate cake",
+    "description": "Everyone has a favourite recipe, but we think this velvety creation is difficult to beat. Smother it with the silky buttercream, then get creative with the decoration.",
+    "source": "Waitrose Kitchen",
+    "published": "March 2014",
+    "season": [
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+    ],
+    "special": [
+        "Easter"
+    ],
+    "course":"dessert",
+    "serves": 8-10,
+    "prep": "30 minutes, plus cooling",
+    "cook": "40 minutes",
+    "ingredients": [
+        {
+            "amount":"250g",
+            "ingredient":"butter",
+            "details": "softened, plus extra for greasing"
+        },
+        {
+            "amount":"300ml",
+            "ingredient":"single cream"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"vanilla extract"
+        },
+        {
+            "amount":"300g",
+            "ingredient":"light brown soft sugar"
+        },
+        {
+            "amount":"200g",
+            "ingredient":"dark chocolate",
+            "details": "70%-80% cocoa solids, roughly chopped, plus extra to serve"
+        },
+        {
+            "amount":"2",
+            "ingredient":"eggs",
+            "details": "lightly beaten"
+        },
+        {
+            "amount":"225g",
+            "ingredient":"plain flour"
+        },
+        {
+            "amount":"1 tsp",
+            "ingredient":"bicarbonate of soda"
+        },
+        {
+            "amount":"0.5 tsp",
+            "ingredient":"salt"
+        },
+        {
+            "amount":"150g",
+            "ingredient":"icing sugar",
+            "details": "sifted"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"cocoa powder"
+        }
+    ],
+    "instructions": [
+        "Preheat the oven to 180˚C, gas mark 4. Grease and line the base of 2 x 20cm cake tins with parchment. Warm the cream, vanilla, and 1/2 the brown sugar in a pan, until just steaming. Add 1/2 the chocolate, stir to melt, and set aside.",
+        "In a separate bowl, use electric beaters to cream 100g butter with the remaining 150g brown sugar until fluffy. Beat in the eggs a little at a time; stir in the melted chocolate mixture. Sift in the flour, bicarbonate of soda and salt, then beat until smooth. Divide equally between the tins and bake for 30 minutes or until a skewer inserted into the centre of the cakes comes out clean. Set on a wire rack and leave to cool in the tins.",
+        "For the buttercream icing, melt the remaining 100g chocolate in a bowl set over a pan of barely simmering water; set aside and cool for 10 minutes. In a separate bowl, cream the icing sugar and remaining 150g butter for 2 minutes until smooth, then beat in the cocoa and a pinch of salt. Stir in the melted chocolate; if the icing is too soft, chill for 10 minutes.",
+        "Remove the cakes from the tins and peel away the parchment. Spread one cake with icing, sit the second cake on top, and cover the whole cake with the remaining icing. Scatter a little extra chocolate on top to decorate, then serve."
+    ],
+    "tags": [
+        "bakes",
+        "sweet-things",
+        "afternoon-tea",
+        "chocolate",
+        "easter",
+        "fancy",
+        "rich"
+    ],
+    "image": "recipes/chocolate-cake.png",
+    "imageDesc": "A big slice of layered chocolate cake with chocolate buttercream icing, decorated with splinters of dark chocolate, on a fine porcelain plate.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/chocolate-cake"
+}

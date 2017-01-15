@@ -1,0 +1,63 @@
+{
+    "title": "Toasted tomato tart",
+    "description": "As simple as cheese on toast, but much tastier - and there are no plates to deal with afterwards.",
+    "supplementary": "Ripe, juicy tomatoes are a staple of the Italian diet. If you can, use medium-sized Romas - they're at their best this month. For that extra sun-ripened taste, leave them on the windowsill for a few days after buying. Serve this tart in fingers or squares.",
+    "source": "Eve magazine",
+    "published": "date unknown",
+    "season": [
+        "summer",
+        "spring"
+    ],
+    "course":"main",
+    "serves": 6,
+    "prep": "10 minutes",
+    "cook": "20 minutes",
+    "ingredients": [
+        {
+            "amount":"375g",
+            "ingredient":"puff pastry",
+            "details": "1 packet of sheets"
+        },
+        {
+            "amount":"250g",
+            "ingredient":"sundried tomato paste",
+            "details": "e.g. Sacla"
+        },
+        {
+            "ingredient":"fresh basil",
+            "details": "bunch"
+        },
+        {
+            "amount":"6-8",
+            "ingredient":"tomatoes",
+            "details": "finely sliced"
+        },
+        {
+            "amount":"200g",
+            "ingredient":"mozzarella",
+            "details": "fresh"
+        },
+        {
+            "amount":"2 tbsp",
+            "ingredient":"olive oil"
+        }
+    ],
+    "instructions": [
+        "Pre-heat the oven to 180˚C / 160˚C fan. Place 3 pastry sheets on a greased baking tray and pierce them all over with a fork. Bake for 10 minutes or until pale gold.",
+        "Remove from the oven and thinly spread tomato paste on each sheet. Then scatter torn basil leaves over and cover with the tomato slices.",
+        "Add a knob of mozzarella cheese to each tomato slice. Sprinkle with salt and drizzle with olive oil.",
+        "Return the pastries to the oven and bake for a further 6-8 minutes.",
+        "Remove from the oven, cut each pastry slice into approximately 16 pieces, season with black pepper, and serve warm."
+    ],
+    "tags": [
+        "simple",
+        "mediterranean",
+        "puff-pastry",
+        "vegetarian"
+    ], 
+    "image": "recipes/toasted-tomato-tart.png",
+    "imageDesc": "A small square of crispy puff pastry topped with basil, a slice of roasted tomato, and melted mozzarella.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/toasted-tomato-tart"
+}
