@@ -51,7 +51,8 @@
         "simple",
         "fancy",
         "fruit",
-        "mediterranean"
+        "mediterranean",
+        "seasonal"
     ],
     "image": "recipes/stuffed-figs.png",
     "imageDesc": "Three stuffed figs on a bed of rocket",

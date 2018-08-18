@@ -6,7 +6,10 @@
         "autumn",
         "winter"
     ],
-    "course":"dinner",
+    "course": [
+        "dinner",
+        "side"
+    ],
     "accompaniment":[
         {
             "title": "Toad in the hole with red onion gravy",

@@ -1,0 +1,52 @@
+{
+    "title": "Rhubarb and orange blossom jam",
+    "description": "This simple jam from Blue Belles secretary Laura Pryke is absolutely delicious. The pectin in the jam sugar helps the setting process.",
+    "source": "Waitrose Kitchen",
+    "credit": "Laura Pryke, Cambridge Blue Belles WI",
+    "published": "March 2014",
+    "season": [
+        "spring",
+        "summer"
+    ],
+    "course": "teatime",
+    "makes": "4x 300ml jars",
+    "prep": "20 minutes, plus macerating and cooling",
+    "cook": "15 minutes",
+    "ingredients": [
+        {
+            "amount":"1 kg",
+            "ingredient":"rhubarb",
+            "details": "trimmed and chopped into 2cm chunks"
+        },
+        {
+            "amount":"900g",
+            "ingredient":"jam sugar"
+        },
+        {
+            "amount":"1",
+            "ingredient":"orange",
+            "details": "juice"
+        },
+        {
+            "amount":"1 tbps",
+            "ingredient":"orange blossom water"
+        }
+    ],
+    "instructions": [
+        "Mix the rhubarb with the sugar and orange juice in a preserving pan. Cover with a clean tea towel and leave to macerate overnight, or at least a few hours.",
+        "Bring the mixture to the boil, stirring regularly. Boil rapidly for 10-15 minutes, until the setting point is reached. To test for the setting point, place a saucer in the freezer before you begin, then drop a small spoonful of jam onto the cold saucer. Allow it to cool, then push with your finger; if the surface of the jam wrinkles it is ready, if not continue boiling and test again 2-3 minutes later. Alternatively use a sugar thermometer; the jam will be set when it reads 104.5˚C.",
+        "Stir in the orange blossom water, then leave the jam to cool for 10 minutes before potting into new, sterilised jars. The jam will keep for up to six months stored in a cool, dark place. Once opened, store in the fridge and use within four weeks."
+    ],
+    "tags": [
+        "afternoon-tea",
+        "fruit",
+        "preserving",
+        "simple",
+        "sweet-things"
+    ],
+    "image": "recipes/rhubarb-and-orange-blossom-jam.png",
+    "imageDesc": "Two jars of jam and a stack of seeded wholemeal toast on a chopping board. One jar is open, and a thick layer of jam with large rhubarb chunks is spread on the top slice of toast.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/rhubarb-and-orange-blossom-jam"
+}

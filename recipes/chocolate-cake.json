@@ -12,7 +12,10 @@
     "special": [
         "Easter"
     ],
-    "course":"dessert",
+    "course": [
+        "dessert",
+        "teatime"
+    ],
     "serves": 8-10,
     "prep": "30 minutes, plus cooling",
     "cook": "40 minutes",

@@ -1,0 +1,68 @@
+{
+    "title": "Orzo with purple-sprouting broccoli",
+    "description": "This pasta dish works well served hot or cold. Orzo has great texture and shape, plus it takes on flavours exceptionally well.",
+    "source": "Waitrose Kitchen",
+    "credit": "Matt Tebbutt",
+    "published": "March 2014",
+    "season": [
+        "spring"
+    ],
+    "course":[
+        "main",
+        "lunch"
+    ],
+    "serves": 2,
+    "prep": "10 minutes",
+    "cook": "10 minutes",
+    "ingredients": [
+        {
+            "amount":"2 tbsp",
+            "ingredient":"olive oil"
+        },
+        {
+            "amount":"2 cloves",
+            "ingredient":"garlic"
+        },
+        {
+            "amount":"1-2",
+            "ingredient":"green chillis",
+            "details": "to taste, thinly sliced"
+        },
+        {
+            "amount":"150g",
+            "ingredient":"orzo"
+        },
+        {
+            "amount":"230g",
+            "ingredient":"purple sprouting broccoli",
+            "details": "(or use tenderstem)"
+        },
+        {
+            "amount":"1",
+            "ingredient":"lemon",
+            "details": "zest"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"ricotta cheese"
+        }
+    ],
+    "instructions": [
+        "Heat 1 tbsp oil in a large, shallow frying pan and cook the garlic and chilli until golden, about 3 minutes. Remove from the heat and set aside.",
+        "Cook the orzo according to the pack instructions. Meanwhile, separate the broccoli florets from the stalks, slicing any thick stalks.",
+        "Two minutes before the orzo is cooked, add the broccoli to the pan. When both are cooked, drain.",
+        "Return the pan with the chilli oil to the heat and tip in the cooked orzo and broccoli. Toss enthusiastically, taking care not to smash the florets.",
+        "Season, add the lemon zest, and tip into a large serving bowl. Crumble the ricotta over the top and drizzle with the remaining 1 tbsp olive oil."
+    ],
+    "tags": [
+        "light",
+        "simple",
+        "fresh",
+        "seasonal"
+    ],
+    "image": "recipes/orzo-with-purple-sprouting-broccoli.png",
+    "imageDesc": "An oval plate with a mound of orzo pasta mixed through with small broccoli shoots and ricotta cheese. ",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/orzo-with-purple-sprouting-broccoli"
+}

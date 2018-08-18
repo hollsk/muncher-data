@@ -1,0 +1,81 @@
+{
+    "title": "Harissa and yoghurt salmon",
+    "description": "Harissa is a fiery North African paste and a brilliant store-cupboard staple. Use as a dip, in sauces, or as a marinade.",
+    "source": "Waitrose Kitchen",
+    "credit": "Matt Tebbutt",
+    "published": "March 2014",
+    "season": [
+        "spring",
+        "summer"
+    ],
+    "course":[
+        "main",
+        "lunch"
+    ],
+    "serves": 2,
+    "prep": "25 minutes",
+    "cook": "10 minutes",
+    "ingredients": [
+        {
+            "amount":"1 tbsp",
+            "ingredient":"harissa paste"
+        },
+        {
+            "amount":"1",
+            "ingredient":"lemon",
+            "details": "juice"
+        },        
+        {
+            "amount":"200g",
+            "ingredient":"natural yoghurt"
+        },
+        {
+            "amount":"2",
+            "ingredient":"salmon fillets"
+        },
+        {
+            "amount":"100g",
+            "ingredient":"baby spinach"
+        },
+        {
+            "amount":"1/2 a",
+            "ingredient":"cucumber"
+        },
+        {
+            "amount":"handful of",
+            "ingredient":"mint leaves"
+        },
+        {
+            "amount":"handful of",
+            "ingredient":"coriander leaves"
+        },
+        {
+            "amount":"1",
+            "ingredient":"green chilli",
+            "details": "finely sliced"
+        },
+        {
+            "amount":"1 tbsp",
+            "ingredient":"olive oil"
+        }        
+    ],
+    "instructions": [
+        "Mix the harissa with 1/2 the lemon juice and the yoghurt; season. Chill 1/2 and use the rest to marinate the salmon for 20 minutes.",
+        "Meanwhile, tip the spinach into a colander and pour over boiling water. Drain, squeezing out any excess water, pat dry on kitchen paper and season.",
+        "Use a potato peeler to pare the cucumber into long strips. Mix with the spinach, herbs, and chilli. Toss with 1/2 tbsp oil and the remaining lemon juice; season and set aside.",
+        "Heat the remaining 1/2 tbsp oil over a medium heat in a frying pan. Scrape off the excess marinade from the fish. Lay the fillets flesh-side down and cook for 2-3 minutes on each side (cooking time will depend on the thickness of the fillets, so check they're cooked through.",
+        "Serve with the spinach and cucumber salad and the reserved harissa yoghurt."
+    ],
+    "tags": [
+        "fish",
+        "fancy",
+        "light",
+        "simple",
+        "fresh"
+    ],
+    "image": "recipes/harissa-and-yoghurt-salmon.png",
+    "imageDesc": "A seared fillet of salmon on a bed of green herbs and vegetables with a pot of harissa yoghurt and a wedge of lemon to the side.",
+    "imageWidth": 350,
+    "imageHeight": 335,
+    "url":"/recipes/harissa-and-yoghurt-salmon"
+}

@@ -9,7 +9,10 @@
         "autumn",
         "winter"
     ],
-    "course":"dessert",
+    "course": [
+        "dessert",
+        "teatime"
+    ],
     "serves": 4,
     "prep": "20 minutes",
     "cook": "25 minutes",
